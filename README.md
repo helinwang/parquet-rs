@@ -19,6 +19,9 @@
 
 # An Apache Parquet implementation in Rust
 
+**All credit goes to https://crates.io/crates/parquet.** The crate
+doesn't build, this repo only make the crate build successfully.
+
 ## Usage
 Add this to your Cargo.toml:
 ```toml
