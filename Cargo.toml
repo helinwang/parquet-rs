@@ -57,7 +57,7 @@ features = ["preserve_order"]
 version = "0.2"
 
 [dependencies.thrift]
-version = "0.12"
+version = "0.13"
 
 [dependencies.zstd]
 version = "0.4"
